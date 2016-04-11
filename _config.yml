@@ -1,0 +1,28 @@
+name: Abundance SP
+favicon: null
+layout_spectrum: 0.10023517743684351
+typography_spectrum: 0.44483682536520064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20824156561866403
+  lightness: 0.6299836991820484
+  saturation: 0.495093873469159
+  rhythmicContrast: 0.5859695768449455
+purpose: []
